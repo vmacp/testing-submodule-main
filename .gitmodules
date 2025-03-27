@@ -1,4 +1,4 @@
 [submodule "testing-submodule-dependency"]
 	path = testing-submodule-dependency
 	url = git@github.com:vmacp/testing-submodule-dependency.git
-	branch = v1
+	branch = version1
